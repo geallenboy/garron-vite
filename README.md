@@ -1,2 +1,2 @@
-# awesome-vite
-awesome-vite
+# vite
+vite

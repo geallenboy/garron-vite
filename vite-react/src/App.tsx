@@ -1,9 +1,9 @@
 import { useState } from 'react'
-import Logo from './logo.svg'
-import {chunk} from 'lodash'
+// import Logo from './logo.svg'
+// import {chunk} from 'lodash'
 import './App.css'
 
-console.log(chunk(['a', 'b', 'c', 'd'], 2))
+// console.log(chunk(['a', 'b', 'c', 'd'], 2))
 
 
 function App() {
@@ -12,7 +12,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <Logo />
+        {/* <Logo /> */}
         <p>Hello Vite + React!</p>
         <p>
           <button type="button" onClick={() => setCount((count) => count + 1)}>
